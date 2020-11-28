@@ -11,5 +11,5 @@ A simple password generator that utilizes Javascript
 
 ## Screenshots
 
-![Function](homework3\passwordGenerator\Assets\Functionality.PNG)
-![Product](homework3\passwordGenerator\Assets\Generated_Password.PNG)
+![Function](\Assets\Functionality.PNG)
+![Product](\Assets\Generated_Password.PNG)
