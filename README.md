@@ -11,5 +11,5 @@ A simple password generator that utilizes Javascript
 
 ## Screenshots
 
-![Function](passwordGenerator/Assets/Functionality.PNG)
-![Product](passwordGenerator/Assets/Generated_Password.PNG)
+![Function](https://github.com/marleemcinelly/passwordGenerator/blob/main/Assets/Functionality.PNG)
+![Product](https://github.com/marleemcinelly/passwordGenerator/blob/main/Assets/Generated_Password.PNG)
